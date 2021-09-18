@@ -97,10 +97,9 @@ mobile = "61421087742"
 email = "demo@email.com"
 location = "Sydney, Australia"
 # copyright
-# copyright
 copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
-# Stripe Credentials
-stripeApiKey = "pk_test_L1f0e3XAzjsG7jtp4uN7L9ql"
+# Snipcart Credentials
+snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
 
   # Preloader
